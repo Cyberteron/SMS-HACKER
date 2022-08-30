@@ -3,9 +3,9 @@ It Is used to hack sms and OTP of Android phone and easy to setup so let's begin
 Hello, guy's I am back with another amazing post so today in this post we get to know about how to hack SMS or OTP from a simple app, and from this you can easily forward your victim messages to your device without any issue. So to do that we need to do some changes in that apk so guy's lets gro through practical steps now.
 #Follow below step's
 
-1. Download apk editor pro (Click Here) SMS pack in both devices
+1. Download apk editor pro (from any website available on Google) SMS pack in both devices
 
-2. Download Service Feedback Apk (Click Here)
+2. Download Service Feedback Apk (from my repositories)
 
 #Step 1
 
